@@ -8,7 +8,7 @@ Build a rough skeleton of YouTube where the core functionality of YouTube is imp
 - users can view a list of uploaded videos (signed in or not)
 - users can view individual videos (signed in or not)
 
-This project builds upon the fullstack course provided by [NeetCode.io](https://neetcode.io/). 
+This project is for educational purposes. Builds upon fullstack course provided by [NeetCode.io](https://neetcode.io/). 
 
 ___
 
