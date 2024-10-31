@@ -10,7 +10,9 @@ Build a rough skeleton of YouTube where the core functionality of YouTube is imp
 
 This project builds upon the fullstack course provided by [NeetCode.io](https://neetcode.io/). 
 
-***All code is commented and own design diagrams are included to demonstrate independent understanding. Additional features are also added (enhanced UI, video titles, comment section, reaction bar)***
+___
+
+***All source code is commented and own design diagrams are included to demonstrate independent understanding. Additional features are also added (enhanced UI, video titles, comment section, reaction bar)***
 
 ## Tech Stack
 - TypeScript
