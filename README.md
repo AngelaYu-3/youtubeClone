@@ -8,6 +8,10 @@ Build a rough skeleton of YouTube where the core functionality of YouTube is imp
 - users can view a list of uploaded videos (signed in or not)
 - users can view individual videos (signed in or not)
 
+This project builds upon the fullstack course provided by [NeetCode.io](https://neetcode.io/). 
+
+***All code is commented and own design diagrams are included to demonstrate independent understanding. Additional features are also added (enhanced UI, video titles, comment section, reaction bar)***
+
 ## Tech Stack
 - TypeScript
 - Next.js
@@ -33,7 +37,3 @@ Video API: use Firebase Functions to build a simple API that allows users to upl
 Web Client: use Next.js to build a simple web client that will allow users to sign in and upload videos. Web client hosted on Cloud Run.
 
 Authentication: use Firebase Auth to handle user authentication. Allows for easy integration with Goolge Sign In.
-
-## Attributions
-
-This project builds upon FullStack course provided by [NeetCode.io](https://neetcode.io/). All code is commented to demonstrate independent understanding and additional features are added (ehanced UI, video titles, comment section, reaction bar)
