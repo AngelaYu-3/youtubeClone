@@ -39,3 +39,7 @@ Video API: use Firebase Functions to build a simple API that allows users to upl
 Web Client: use Next.js to build a simple web client that will allow users to sign in and upload videos. Web client hosted on Cloud Run.
 
 Authentication: use Firebase Auth to handle user authentication. Allows for easy integration with Goolge Sign In.
+
+## License
+
+MIT
